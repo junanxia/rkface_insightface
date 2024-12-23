@@ -1,4 +1,4 @@
-# rkface
+# rkface_insight
 这是一个在RV1106上使用insightface SDK进行人脸检测和识别的测试程序，部份代码参考了RKMPI、InsightFace C++代码。
 
 ## 编译
